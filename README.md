@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/wesm/pydata-book)
+
 # Python for Data Analysis, 2nd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
